@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xdays&count_private=true&show_icons=true" />
-</a>
-
-I'm a devops and focus on building startup infrastructure framework.
+I focus on building startup infrastructure framework.
 
 I'm computer/server enthusiast and motivated to automate everything.
 
